@@ -1,0 +1,2 @@
+total_order_items,total_orders,total_customers,total_units,avg_actual_shipping_days,avg_scheduled_shipping_days,avg_shipping_delay_days,schedule_exceeded_rate_pct,late_delivery_rate_pct,total_sales,total_profit,avg_profit_per_order
+172765,62897,20261,367591,3.5,2.93,0.57,57.29,57.29,35214428.98,3806420.63,22.03
